@@ -22,7 +22,7 @@ section .bg
     position: absolute;
     top: 0;
     left: 0;
-    width: 111%;
+    width: 112%;
     height: 100%;
     object-fit: cover;
 }
